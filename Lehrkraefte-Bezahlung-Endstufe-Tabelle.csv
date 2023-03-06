@@ -1,4 +1,4 @@
-;A 13/EG 13 brutto;A 13/EG 13 netto;A 12/EG 11 brutto;A 12/EG 11 netto
+;A 13 brutto;A 13 netto;A 12 brutto;A 12 netto
 Baden-Württemberg;5928,33;4081,83;5240,02;3676,85
 Bayern;6059,22;4153,11;5356,04;3746,54
 Berlin;5829,97;4024,8;;
@@ -15,5 +15,6 @@ Sachsen;5928,1;4081,77;;
 Sachsen-Anhalt;5775,35;3993,1;5108,95;3597,45
 Schleswig-Holstein;5710,75;3955,67;5287,99;3705,74
 Thüringen;5770,3;3990,22;;
+;EG 13 brutto;EG 13 netto;EG 11 brutto;EG 11 netto
 TV-L Ost;6271,18;3646,69;5824,08;3417,38
 TV-L West;6271,18;3643,69;5824,08;3428,01
