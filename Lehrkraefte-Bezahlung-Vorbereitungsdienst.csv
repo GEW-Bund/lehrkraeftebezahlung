@@ -1,18 +1,18 @@
-﻿Bundesland,Einstiegsgehalt,Lehrämter in A 13Z,Einstiegsgehalt,Lehrämter in A 13,Einstiegsgehalt,Lehrämter in A 12
-Baden-Württemberg,1612,62,"Gymnasium, Berufsbildende Schule",1576,46,"Werkreal-, Haupt-und Realschule, Sonderpädagogik",1543,53,Grundschule
-Bayern,1620,08,"Gymnasium, Berufsbildende Schule",1585,21,"Realschule, Förderschule, Sonderpädagogik",1553,44,"Grundschule, Mittelschule"
-Berlin,1606,14,"ISS, Gymnasium, Berufsbildende Schule",1567,47,Grundschule,--, 
-Brandenburg,1624,42,alle Lehrämter,1590,10,,--, 
-Bremen,1550,17,"integrierte Sekundarschule / Gymnasium, Berufsbildende Schule",1514,39,"Grundschule,  Sonderpädagogik / Inklusive Pädagogik",--, 
-Hamburg,1575,04,alle Lehrämter,--,,--, 
-Hessen,1633,64,"Gymnasium, Berufsbildende Schule",1593,04,"Haupt- und Realschule, Förderschule",1559,73,Grundschule
-Mecklenburg-Vorpommern,1517,28,alle Lehrämter,1517,28,,--, 
-Niedersachsen,1551,92,"Gymnasium, Berufsbildende Schule",1512,66,Sonderpädagogik,1476,66,"Grundschule, Haupt- und Realschule"
-Nordrhein-Westfalen,1619,43,"Gymnasium, Berufsbildende Schule",1583,28,Sonderschule,1550,37,"Grundschule, Haupt-, Real-, Sekundar- und Gesamtschulen"
-Rheinland-Pfalz,1565,78,"Gymnasium, Berufsbildende Schule",1528,34,"Realschule Plus, Förderschule",1494,25,Grundschule
-Saarland,1532,56,"Gymnasium, Berufsbildende Schule",1497,82,"Sekundarstufe I (Klassen 5 - 10), Sonderpädagogik",1466,20,Grundschule
-Sachsen,1645,10,alle Lehrämter,1645,10,,1645,10, 
-Sachsen-Anhalt,1568,85,"Gymnasium, Berufsbildende Schule",1534,00,"Sekundarschulen, Förderschulen",1502,28,Grundschule
-Schleswig-Holstein,1633,52,"Gymnasium, Berufsbildende Schule",1596,53,"Gemeinschaftsschule, Sonderpädagogik, Grundschule (ab 2025)",1562,84,Grundschule (bis 2025)
-Thüringen,1641,64,"Gymnasium, Berufsbildende Schule",1603,47,"Grundschule, Regelschule, Förderpädagogik",--, 
-,,,,,,
+﻿Bundesland;Einstiegsgehalt;Lehrämter in A 13Z;Einstiegsgehalt;Lehrämter in A 13;Einstiegsgehalt;Lehrämter in A 12
+Baden-Württemberg;1612,62;"Gymnasium; Berufsbildende Schule";1576,46;"Werkreal-; Haupt-und Realschule; Sonderpädagogik";1543,53;Grundschule
+Bayern;1620,08;"Gymnasium; Berufsbildende Schule";1585,21;"Realschule; Förderschule; Sonderpädagogik";1553,44;"Grundschule; Mittelschule"
+Berlin;1606,14;"ISS; Gymnasium; Berufsbildende Schule";1567,47;Grundschule;--; 
+Brandenburg;1624,42;alle Lehrämter;1590,10;;--; 
+Bremen;1550,17;"integrierte Sekundarschule / Gymnasium; Berufsbildende Schule";1514,39;"Grundschule;  Sonderpädagogik / Inklusive Pädagogik";--; 
+Hamburg;1575,04;alle Lehrämter;--;;--; 
+Hessen;1633,64;"Gymnasium; Berufsbildende Schule";1593,04;"Haupt- und Realschule; Förderschule";1556,03;Grundschule
+Mecklenburg-Vorpommern;1517,28;alle Lehrämter;1517,28;;--; 
+Niedersachsen;1551,92;"Gymnasium; Berufsbildende Schule";1512,66;Sonderpädagogik;1476,66;"Grundschule; Haupt- und Realschule"
+Nordrhein-Westfalen;1619,43;"Gymnasium; Berufsbildende Schule";1583,28;Sonderschule;1550,37;"Grundschule; Haupt-; Real-; Sekundar- und Gesamtschulen"
+Rheinland-Pfalz;1565,78;"Gymnasium; Berufsbildende Schule";1528,34;"Realschule Plus; Förderschule";1494,25;Grundschule
+Saarland;1532,56;"Gymnasium; Berufsbildende Schule";1497,82;"Sekundarstufe I (Klassen 5 - 10); Sonderpädagogik";1466,20;Grundschule
+Sachsen;--;alle Lehrämter;1645,10;;--; 
+Sachsen-Anhalt;1568,85;"Gymnasium; Berufsbildende Schule";1534,00;"Sekundarschulen; Förderschulen";1502,28;Grundschule
+Schleswig-Holstein;1633,52;"Gymnasium; Berufsbildende Schule";1596,53;"Gemeinschaftsschule; Sonderpädagogik; Grundschule (ab 2025)";1562,84;Grundschule (bis 2025)
+Thüringen;1641,64;"Gymnasium; Berufsbildende Schule";1603,47;"Grundschule; Regelschule; Förderpädagogik";--; 
+;;;;;;
