@@ -1,18 +1,17 @@
-Bundesland;Anwärterbezüge A13Z;Lehrämter in A 13Z;Anwärterbezüge A13;Lehrämter in A 13;Anwärterbezüge A12;Lehrämter in A 12
-Baden-Württemberg;1612,62;Gymnasium, Berufliche Schule;1576,46;Werkreal-, Haupt- und Realschule, Sonderpädagogik;1543,53;Grundschule
-Bayern;1620,08;Gymnasium, Berufliche Schule;1585,21;Realschule, Sonderpädagogik, Grund-, Mittelschule (ab Aug.2028);1553,44;Grundschule, Mittelschule (bis Juli 2028)
-Berlin;1606,14;Integrierte Sekundarschule, Gymnasium, Berufsbildende Schule;1567,47;Grundschule;--; 
-Brandenburg;--;;1740,1;alle Lehrämter;--; 
-Bremen;1550,17;Gymnasium, Berufsbildende Schule;1514,39;alle anderen Lehrämter;--; 
-Hamburg;1575,04;alle Lehrämter;1575,04;;--; 
-Hessen;1633,64;Gymnasium, Berufliche Schule;1593,04;Haupt- und Realschule, Förderschule, Grundschule (ab Aug.2028);1559,73;Grundschule (bis Juli 2028)
-Mecklenburg-Vorpommern;1517,28;Gymnasium, Berufliche Schule;1517,28;alle anderen Lehrämter;--; 
-Niedersachsen;1551,92;Gymnasium, Berufsbildende Schule;1512,66;alle anderen Lehrämter;--;
-Nordrhein-Westfalen;1619,43;Gymnasium, Berufskolleg;1583,28;"Sonderschule, Haupt-, Real-, Sekundar- und
-Gesamtschule (ab Aug.2026)";1550,37;Grundschule, Haupt-, Real-, Sekundar- und Gesamtschule (bis Juli 2026)
-Rheinland-Pfalz;1633,13;Gymnasium, Berufsbildende Schule;1596,71;Realschule Plus, Förderschule;1494,25;Grundschule
-Saarland;1532,56;Sekundarstufe I+II, Berufliche Schule;1497,82;Sekundarstufe I, Sonderpädagogik;1466,2;Primarstufe
-Sachsen;--;;1645,1;alle Lehrämter;--; 
-Sachsen-Anhalt;1568,85;Gymnasium, Berufsbildende Schule;1534;alle anderen Lehrämter;1502,28;Grundschule (bis Juli 2025)
-Schleswig-Holstein;1633,52;Gymnasium, Berufsbildende Schule;1596,53;Gemeinschaftsschule, Sonderpädagogik, Grundschule (ab Aug.2025);1562,84;Grundschule (bis Juli 2025)
-Thüringen;1689,97;Gymnasium, Berufsbildende Schule;1653;alle anderen Lehrämter;--; 
+Bundesland;Anwärterbezüge;Lehrämter in A 13Z;Anwärterbezüge;Lehrämter in A 13;Anwärterbezüge;Lehrämter in A 12
+Baden-Württemberg;1762,62;Gymnasium, Berufsbildende Schule;1726,46;Werkreal-, Haupt-und Realschule, Sonderpädagogik;1693,53;Grundschule
+Bayern;1770,08;Gymnasium, Berufsbildende Schule;1735,21;Realschule, Förderschule, Sonderpädagogik;1703,44;Grundschule, Mittelschule
+Berlin;1756,14;ISS, Gymnasium, Berufsbildende Schule;1717,47;Grundschule;--; 
+Brandenburg;1774,42;Gymnasium, Berufsbildende Schule;1740,1;alle anderen;--; 
+Bremen;1728,85;alle anderen;1692,41;Grundschule, Sekundarstufe I;--; 
+Hamburg;1730,83;alle Lehrämter;--;;--; 
+Hessen;1763,42;Gymnasium, Berufsbildende Schule;1719,59;Haupt- und Realschule, Förderschule;1679,64;Grundschule
+Mecklenburg-Vorpommern;1712,8;Gymnasium, Berufsbildende Schule;1712,8;alle anderen;--; 
+Niedersachsen;1701,92;Gymnasium, Berufsbildende Schule;1662,66;alle anderen;--;
+Nordrhein-Westfalen;1769,43;Gymnasium, Berufsbildende Schule;1733,28;Förderschule, Sonderpädagogik;1700,37;Grundschule, Sekundarstufe I
+Rheinland-Pfalz;1783,13;Gymnasium, Berufsbildende Schule;1746,71;Realschule Plus, Förderschule;1713,55;Grundschule
+Saarland;1682,56;Gymnasium, Berufsbildende Schule;1647,82;Sekundarstufe I (Klassen 5 - 10), Sonderpädagogik;1616,2;Grundschule
+Sachsen;--;;1792,1;alle Lehrämter;--; 
+Sachsen-Anhalt;1718,85;Gymnasium, Berufsbildende Schule;1684;alle anderen;1652,28;Grundschule (bis Juli '25)
+Schleswig-Holstein;1783,52;Gymnasium, Berufsbildende Schule;1746,53;alle anderen;1712,84;Grundschule (bis Juli '25)
+Thüringen;1782,92;Gymnasium, Berufsbildende Schule;1743,92;alle anderen;--; 
