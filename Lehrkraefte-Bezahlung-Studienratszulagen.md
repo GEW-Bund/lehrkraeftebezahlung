@@ -1,4 +1,4 @@
-# Studienratszulagen für Lehrkräfte in A 13
+## Studienratszulagen für Lehrkräfte in A 13
 
 **Stand: Februar 2025**
 
