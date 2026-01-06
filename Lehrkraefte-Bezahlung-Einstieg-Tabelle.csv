@@ -1,17 +1,17 @@
-Bundesland;A 13 brutto;A 13 netto;Anmerkung
-Baden-Württemberg; 5.185,88   ; 3.814,63   ;"A 12 gilt nur noch an Grundschulen sowie für Lehrkräfte an Werkrealschulen mit Lehramt ""Hauptschule"""
-Bayern; 5.531,82   ; 4.027,07   ;Stufenplan zur Einführung von A 13/EG 13, Zulage 240,- Euro seit Januar 2025
-Berlin; 5.081,06   ; 3.749,31   ;A 13/EG 13 für alle voll ausgebildeten Lehrkräfte. Hauptstadtzulage 150 € brutto im Monat.
-Brandenburg; 5.072,24   ; 3.743,82   ;Alle Lehrämter in A 13/EG 13
-Bremen; 4.970,00   ; 3.679,58   ;Alle Lehrämter in A 13/EG 13
-Hamburg; 4.939,24   ; 3.660,16   ;Alle Lehrämter in A 13Z/EG 13
-Hessen; 5.000,19   ; 3.698,61   ;Stufenplan für A 13/EG 13 bis 1. August 2028
-Mecklenburg-Vorpommern; 4.939,13   ; 3.660,13   ;Alle Lehrämter in A 13/EG 13
-Niedersachsen; 4.844,25   ; 3.600,00   ;Alle Lehrämter in A 13/EG 13
-Nordrhein-Westfalen; 5.051,74   ; 3.730,99   ;Ab 1. August 2026 alle LK in A 13/EG 13, bis dahin wachsende Zulage
-Rheinland-Pfalz; 4.956,45   ; 3.671,03   ;Nur noch Grundschullehrkräfte (und früheres Lehramt Grund- und Hauptschule) sind in A 12
-Saarland; 4.744,15   ; 3.536,15   ;Nur Grund- und Hauptschullehrkräfte in A 12
-Sachsen; 4.814,46   ; 3.581,04   ;Alle Lehrämter in A 13/EG 13
-Sachsen-Anhalt; 4.851,23   ; 3.604,40   ;Seit 1. August 2025 alle Lehrkräfte in A 13/EG 13
-Schleswig-Holstein; 4.987,30   ; 3.690,47   ;Seit 1. August 2025 alle Lehrkräfte in A 13/EG 13
-Thüringen; 5.185,38   ; 3.814,38   ;Alle Lehrämter in A 13/EG 13
+Stand Januar 2026;A 13 brutto;A 13 netto;A 12 brutto;A 12 netto
+Baden-Württemberg; 5.185,88   ; 3.814,63   ; 4.526,46   ; 3.395,96   
+Bayern; 5.531,82   ; 4.027,07   ; 5.025,53   ; 3.714,53   
+Berlin; 5.081,06   ; 3.749,31   ; - ; - 
+Brandenburg; 5.072,24   ; 3.743,82   ; - ; - 
+Bremen; 4.970,00   ; 3.679,58   ; - ; - 
+Hamburg; 4.939,24   ; 3.660,16   ; - ; - 
+Hessen; 5.000,19   ; 3.698,61   ; 4.572,54   ; 3.425,79   
+Mecklenburg-Vorpommern; 4.939,13   ; 3.660,13   ; - ; - 
+Niedersachsen; 4.844,25   ; 3.600,00   ; - ; - 
+Nordrhein-Westfalen; 5.051,74   ; 3.730,99   ; 4.818,34   ; 3.583,51   
+Rheinland-Pfalz; 4.956,45   ; 3.671,03   ; 4.462,46   ; 3.354,38   
+Saarland; 4.744,15   ; 3.536,15   ; 4.077,03   ; 3.100,28   
+Sachsen; 4.814,46   ; 3.581,04   ; - ; - 
+Sachsen-Anhalt; 4.851,23   ; 3.604,40   ; - ; - 
+Schleswig-Holstein; 4.987,30   ; 3.690,47   ; - ; - 
+Thüringen; 5.185,38   ; 3.814,38   ; - ; - 
